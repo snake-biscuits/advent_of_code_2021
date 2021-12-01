@@ -3,12 +3,8 @@ My solutions to 2021's [Advent of Code](https://adventofcode.com/)
 
 
 ## Languages
-
-### Primary
-Python
-
-### Secondary
-C/C++
+ * Python
+ * C/C++
 
 
 ## Goals
