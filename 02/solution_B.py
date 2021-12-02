@@ -20,4 +20,3 @@ for direction, x in map(str.split, directions):
 
 print(f"{horizontal_position = }, {depth = }")
 print(f"solution = {horizontal_position * depth}")
-        
