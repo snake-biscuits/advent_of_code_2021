@@ -16,3 +16,7 @@ build/01b.exe: 01/solution_B.cpp common/readlines.hpp
 	$(CC) $(CXXFLAGS) -ggdb $< -o $@
 	build/01b.exe 01/depths.txt
 
+build/02a.exe: 02/solution_A.cpp common/readlines.hpp
+	$(CC) $(CXXFLAGS) -ggdb $< -o $@
+	build/02a.exe 02/directions.txt
+
