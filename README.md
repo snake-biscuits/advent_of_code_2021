@@ -32,3 +32,8 @@ Cygwin
  * vim  (8.2)
  * gdb  (Cygwin 9.2-1)
 
+Lubuntu `5.4.0-90-generic x86_64`
+ * g++  (`9.3.0-17ubuntu1~20.04`)
+ * make (GNU Make 4.2.1 `x86_64-pc-linux-gnu`)
+ * vim  (8.1)
+ * gdb  (GNU gdb 9.2 `Ubuntu 9.2-0ubuntu~20.04`)
